@@ -1,7 +1,8 @@
 # PORTFOLIO DO LOOPNERD
 ☑️EXEMPLO DE PORTFOLIO.
 
-<img src="FOTO.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 Este é a estrutura de um site ou página web que apresenta um portfólio responsivo de projetos relacionados a desenvolvimento web, como HTML, CSS e jQuery. Aqui está uma descrição das principais características e funcionalidades do aplicativo:
