@@ -26,4 +26,3 @@ Este é a estrutura de um site ou página web que apresenta um portfólio respon
 ## CREDITOS:
 - [PROJETO CRIADO PELO "loopnerd"](https://www.loopnerd.com.br/codigos-css-prontos/portfolio-html-css/)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
